@@ -86,8 +86,3 @@ The dataset used in this project is included in the repository.
 Contributions are welcome! Feel free to fork and improve.
 
 ---
-
-## 📧 Contact
-
-Your Name
-GitHub: https://github.com/YOUR-USERNAME
